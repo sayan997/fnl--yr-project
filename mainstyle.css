@@ -1,5 +1,5 @@
 body{
-    background-image: url("/bg.jpg");
+    background-image: url("bg.jpg");
     background-size: cover;
     position:fixed;
     margin: 0px;
@@ -34,7 +34,7 @@ body{
     position: fixed;
     right: 50%;
     top: 12px;
-    background-image: url("/user.png");
+    background-image: url("user.png");
     background-size: contain;
     background-size: 36px;
     background-position:center;
